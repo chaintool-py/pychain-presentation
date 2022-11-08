@@ -10,7 +10,7 @@ Grassroots Economics (docs.grassecon.org)
 By Louis Holbrook (manbytesgnu.com) & Mohamed Sohail (sohailazim.com)
 
 <BarBottom  title="Ethereum development with chaintool libraries.">
-  <Item text="chainlib-py">
+  <Item text="chaintool-py">
     <carbon:logo-github />
   </Item>
 </BarBottom>
@@ -39,7 +39,7 @@ Other supporting libraries for general python development:
 
 
 <BarBottom  title="Ethereum development with chaintool libraries.">
-  <Item text="chainlib-py">
+  <Item text="chaintool-py">
     <carbon:logo-github />
   </Item>
 </BarBottom>
@@ -55,11 +55,11 @@ Why were chaintool libs written?
 
 **Current state:**
 
-- Used in production at GE, over 100k custodial transactions to date
+- Used in production at GE, over 100k custodial transactions to date since May 2022
 
 
 <BarBottom  title="Ethereum development with chaintool libraries.">
-  <Item text="chainlib-py">
+  <Item text="chaintool-py">
     <carbon:logo-github />
   </Item>
 </BarBottom>
@@ -78,11 +78,11 @@ Use cases:
 Features:
 
 - Pluggable input source, CSV implemented
-- Full transaction lifecycle state management (create -> sign -> dispatch -> status)
+- Full transaction lifecycle (create -> sign -> dispatch -> status)
 - Pluggable storage provider
 
 <BarBottom  title="Ethereum development with chaintool libraries.">
-  <Item text="chainlib-py">
+  <Item text="chaintool-py">
     <carbon:logo-github />
   </Item>
 </BarBottom>
@@ -101,7 +101,7 @@ Some of the CLI tools:
 - ...and more
 
 <BarBottom  title="Ethereum development with chaintool libraries.">
-  <Item text="chainlib-py">
+  <Item text="chaintool-py">
     <carbon:logo-github />
   </Item>
 </BarBottom>
@@ -117,3 +117,9 @@ https://github.com/chaintool-py
 - Documentation
 
 **We welcome contributors!**
+
+<BarBottom  title="Ethereum development with chaintool libraries.">
+  <Item text="chaintool-py">
+    <carbon:logo-github />
+  </Item>
+</BarBottom>
